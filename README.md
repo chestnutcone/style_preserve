@@ -6,33 +6,33 @@ I downloaded facebook conversation data (JSON) and made it into a list of messag
 
 Sample output from network:
 
-Query: am i having a time wonderful
+Query: am i having a time wonderful\
 Answer: i am having a wonderful time
 
-Query: are you how
+Query: are you how\
 Answer: how are you
 
-Query: your day is how
+Query: your day is how\
 Answer: how is your day
 
-Query: to meet you nice
+Query: to meet you nice\
 Answer: you to meet nice
 
-Query: am hungry i
+Query: am hungry i\
 Answer: i am hungry
 
-Query: go lets to walmart
+Query: go lets to walmart\
 Answer: lets go to walmart
 
-Query: a dog is this
+Query: a dog is this\
 Answer: is a dog this
 
-Query: mcdonalds go to
+Query: mcdonalds go to\
 Answer: go to mcdonalds
 
-Query: have to i to go mcdonalds
+Query: have to i to go mcdonalds\
 Answer: i have to mcdonalds go
 
-Query: nice day is a today
+Query: nice day is a today\
 Answer: nice is a today day
 
